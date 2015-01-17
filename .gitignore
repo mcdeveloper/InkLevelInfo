@@ -1,2 +1,7 @@
+server-side/ink-info-cached.wsgi
+server-side/ink-info-reload.wsgi
+server-side/previous-hp-info.json
+*.swp
+*.pyc
 *~
 

@@ -1,0 +1,134 @@
+
+HP Linux Imaging and Printing System (ver. 3.12.6)
+Device Information Utility ver. 5.2
+
+Copyright (c) 2001-14 Hewlett-Packard Development Company, LP
+This software comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to distribute it
+under certain conditions. See COPYING file for more details.
+
+warning: No display found.
+error: hp-info -u/--gui requires Qt4 GUI support. Entering interactive mode.
+Using device: hp:/usb/DeskJet_960C?serial=MY2151S2C9RO
+
+error: Unable to connect to dbus session bus.
+
+hp:/usb/DeskJet_960C?serial=MY2151S2C9RO
+
+Device Parameters (dynamic data):
+  Parameter                     Value(s)
+  ----------------------------  ----------------------------------------------------------
+  agent1-ack                    False
+  agent1-desc                   Black cartridge
+  agent1-dvc                    0
+  agent1-health                 0
+  agent1-health-desc            Good/OK
+  agent1-hp-ink                 False
+  agent1-id                     0
+  agent1-kind                   3
+  agent1-known                  False
+  agent1-level                  95
+  agent1-level-trigger          0
+  agent1-sku                    45 (51645A)
+  agent1-type                   1
+  agent1-virgin                 False
+  agent2-ack                    False
+  agent2-desc                   Tri-color cartridge
+  agent2-dvc                    0
+  agent2-health                 0
+  agent2-health-desc            Good/OK
+  agent2-hp-ink                 False
+  agent2-id                     0
+  agent2-kind                   3
+  agent2-known                  False
+  agent2-level                  42
+  agent2-level-trigger          0
+  agent2-sku                    78 (C6578DN/C6578AN)
+  agent2-type                   2
+  agent2-virgin                 False
+  back-end                      hp
+  cups-printers                 ['HP_960C']
+  cups-uri                      hp:/usb/DeskJet_960C?serial=MY2151S2C9RO
+  dev-file
+  device-state                  1
+  device-uri                    hp:/usb/DeskJet_960C?serial=MY2151S2C9RO
+  deviceid                      MFG:HEWLETT-PACKARD;MDL:DESKJET
+                                960C;CMD:MLC,PCL,PML;CLS:PRINTER;DES:Hewlett-Packard
+                                DeskJet
+                                960C;SN:MY2151S2C9RO;S:00800080800010002C110005FC208002A;P
+                                :0800,FL,B0;J: ;
+  duplexer                      0
+  error-state                   0
+  host
+  in-tray1                      True
+  in-tray2                      False
+  is-hp                         True
+  media-path                    1
+  panel                         0
+  panel-line1
+  panel-line2
+  photo-tray                    0
+  port                          1
+  r                             0
+  revision                      0
+  rg                            000
+  rr                            000000
+  rs                            000000000
+  serial                        MY2151S2C9RO
+  status-code                   1000
+  status-desc                   Idle
+  supply-door                   0
+  top-door                      1
+
+Model Parameters (static data):
+  Parameter                     Value(s)
+  ----------------------------  ----------------------------------------------------------
+  align-type                    1
+  clean-type                    1
+  color-cal-type                0
+  copy-type                     0
+  embedded-server-type          0
+  fax-type                      0
+  fw-download                   False
+  icon                          DESKJET_960C.png
+  io-mfp-mode                   6
+  io-mode                       1
+  io-support                    2
+  job-storage                   0
+  linefeed-cal-type             0
+  model                         DeskJet_960C
+  model-ui                      HP Deskjet 960c
+  model1                        HP Deskjet 960cse Printer
+  model2                        HP Deskjet 960cxi Printer
+  model3                        HP Deskjet 960c Printer
+  monitor-type                  0
+  panel-check-type              0
+  pcard-type                    0
+  plugin                        0
+  plugin-reason                 0
+  power-settings                0
+  pq-diag-type                  0
+  r-type                        0
+  r0-agent1-kind                3
+  r0-agent1-sku                 45 (51645A)
+  r0-agent1-type                1
+  r0-agent2-kind                3
+  r0-agent2-sku                 78 (C6578DN/C6578AN)
+  r0-agent2-type                2
+  scan-src                      0
+  scan-type                     0
+  status-battery-check          0
+  status-dynamic-counters       0
+  status-type                   2
+  support-released              True
+  support-subtype               13890
+  support-type                  2
+  support-ver                   0.9.5
+  tech-class                    ['DJ9xxVIP']
+  tech-subclass                 ['Normal']
+  tech-type                     2
+  usb-pid                       12548
+  usb-vid                       1008
+  wifi-config                   0
+
+Done.

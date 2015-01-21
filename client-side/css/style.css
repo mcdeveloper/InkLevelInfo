@@ -1,0 +1,8 @@
+body {font-family: Consolas; font-size: 12px; }
+#ink-level-info {margin-left: auto; margin-right: auto; height: 400px; width: 760px; padding: 5px;}
+.hidden {display: none;}
+.left {width: 130px; float: left; display: block;}
+.ink-level-placeholder {padding-top: 10px; text-align: center;}
+#info {padding-top: 90px; }
+#loading {text-align: center;}
+#control {position: absolute; top: 330px; left: 45%; clear: both; }
